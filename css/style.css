@@ -560,7 +560,7 @@ body{
         max-width: 5px;
     }
     .legend {
-        display: flex;
+        display: block;
     }
     .legend-label {
         padding-top: 0px;
@@ -598,7 +598,7 @@ body{
         max-width: 5px;
     }
     .legend {
-        display: flex;
+        display: block;
     }
     .legend-label {
         padding-top: 0px;
