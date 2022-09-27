@@ -545,9 +545,6 @@ body{
     .session-date-block {
         max-width: 250px;
     }
-    .session-time {
-        padding-top: 20px;
-    }
     .film-title {
         font-size: 30px;
     }
@@ -601,7 +598,7 @@ body{
         max-width: 5px;
     }
     .legend {
-        display: block;
+        display: flex;
     }
     .legend-label {
         padding-top: 0px;
