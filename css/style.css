@@ -538,44 +538,6 @@ body{
         display: flex;
     }
 }
-@media (max-width: 414px), (height: 896px) {
-    .container {
-        max-width: 380px;
-    }
-    .session-date-block {
-        max-width: 250px;
-    }
-    .film-title {
-        font-size: 30px;
-    }
-    .film-description {
-        margin-right: 0px;
-    }
-    .button {
-        padding: 15px;
-        padding-left: 10px;
-        text-align: center;
-    }
-    .price-total {
-        max-width: 5px;
-    }
-    .legend {
-        display: block;
-    }
-    .legend-label {
-        padding-top: 0px;
-        margin-top: 10px;
-    }
-    .price-tag {
-        font-size: 30px;
-    }
-    .price-total {
-        font-size: 30px;
-    }
-    .price-label {
-        display: flex;
-    }
-}
 @media (max-width: 390px), (height: 844px) {
     .container {
         max-width: 360px;
